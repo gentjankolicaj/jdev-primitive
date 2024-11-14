@@ -5,7 +5,7 @@ java helper & util classes around java primitives (IntUtils, ByteArrayBuilder...
 ## How to use it ?
 
 This is not pushed to Maven central... yet. But still you can use it
-via [jitpack.io](https://jitpack.io/docs/).
+via [![](https://jitpack.io/v/gentjankolicaj/jdev-primitive.svg)](https://jitpack.io/#gentjankolicaj/jdev-primitive)
 
 Add the jitpack repository to your maven repositories:
 
@@ -27,7 +27,7 @@ from [gitHub releases page](https://github.com/gentjankolicaj/jdev-primitive/rel
 <dependency>
     <groupId>com.github.gentjankolicaj</groupId>
     <artifactId>jdev-primitive</artifactId>
-    <version>main-SNAPSHOT</version>
+    <version>main-${jitpack-version}</version>
 </dependency>
  ```
 
